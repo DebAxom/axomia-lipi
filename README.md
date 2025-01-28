@@ -1,5 +1,5 @@
 # Assamese Transliteration Tool
-This is a rest-api for transliterating Assamese words writen in Latin script to Assamese script writen in go
+This is a rest-api for transliterating Assamese words writen in Latin script to Assamese script writen in go.
 
 ## How to use it ?
 Go to terminal and type : ``` go run .``` <br/>
